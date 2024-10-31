@@ -1,0 +1,355 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+
+    background-image: url("az.jpeg");
+    background-repeat: repeat;
+
+}
+
+.img1{
+
+height: 300px;
+width: 600px;
+background-image: url("partes-circuitos-electricos.jpg");
+background-repeat: no-repeat;
+float: inline-start;
+
+}
+.titulo{
+font-size: 50px;
+color: rgb(133, 60, 129);
+text-align: center;
+
+}
+
+.img2{
+
+height: 300px;
+width: 600px;
+background-image: url("mate1.gif");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img3{
+
+height: 300px;
+width: 600px;
+background-image: url("mate2.png");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img4{
+
+height: 300px;
+width: 600px;
+background-image: url("mate3.png");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img5{
+
+height: 300px;
+width: 600px;
+background-image: url("mate4.png");
+background-repeat: no-repeat;
+float: center;
+
+}
+
+.img6{
+
+    height: 300px;
+    width: 600px;
+    background-image: url("mate5.png");
+    background-repeat: no-repeat;
+    float: center;
+    
+    
+}
+
+.img7{
+
+    height: 300px;
+    width: 600px;
+    background-image: url("mate6.png");
+    background-repeat: no-repeat;
+    float: center;
+
+}
+
+.img8{
+
+    height: 500px;
+    width: 600px;
+    background-image: url("ciclo menstrual.jpg");
+    background-repeat: no-repeat;
+   float: center;
+
+}
+
+.img9{
+
+    height: 500px;
+    width: 600px;
+    background-image: url("fases menstuales.jpeg");
+    background-repeat: no-repeat; 
+    float: inline-start;
+}
+
+.img10{
+
+    height: 500px;
+    width: 600px;
+    background-image: url("hormonas.jpeg");
+    background-repeat: no-repeat; 
+    float: inline-start;
+}
+
+.img11{
+
+    height: 200px;
+    width: 200px;
+    background-image: url("ingles1.jpg");
+    background-repeat: no-repeat; 
+    float: initial;
+}
+
+.img12{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("ingles2.png");
+    background-repeat: no-repeat;
+    float: initial;
+}
+
+.img13{
+
+    height: 200px;
+    width: 300px;
+    background-image: url("ingles3.jpeg");
+    background-repeat: no-repeat; 
+    float: inline-start;
+
+}
+
+.img14{
+
+    height: 400px;
+    width: 700px;
+    background-image: url("ingles4.png");
+    background-repeat: no-repeat; 
+    float: initial;
+ 
+}
+
+.img15{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("ingles5.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+}
+
+.img16{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("ingles6.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+}
+
+.img17{
+
+    height: 200px;
+    width: 400px;
+    background-image: url("ingles7.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+}
+
+.img18{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("ingles8.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img19{
+
+    height: 300px;
+    width: 500px;
+    background-image: url("ingles9.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+}
+
+.img20{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("ingles10.jpg");
+    background-repeat: no-repeat; 
+    float: center;  
+}
+
+.img21{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("ingles11.jpg");
+    background-repeat: no-repeat; 
+    float: center;  
+
+}
+
+.img22{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("ingles12.jpg");
+    background-repeat: no-repeat; 
+    float: center;  
+
+}
+
+.img23{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("ingles13.jpg");
+    background-repeat: no-repeat; 
+    float: center;  
+}
+
+.img24{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("ingles14.jpg");
+    background-repeat: no-repeat; 
+    float: center;   
+}
+
+.img25{
+
+    height: 400px;
+    width: 500px;
+    background-image: url("ingles15.jpg");
+    background-repeat: no-repeat; 
+    float: center;   
+
+}
+
+.img26{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("ingles16.jpg");
+    background-repeat: no-repeat; 
+    float: center;   
+ 
+}
+
+.img27{
+
+    height: 400px;
+    width: 300px;
+    background-image: url("triangulodePauli.jpg");
+    background-repeat: no-repeat; 
+    float: inline-start;     
+}
+
+.img28{
+
+    height: 200px;
+    width: 400px;
+    background-image: url("configuracionElectronica.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img29{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("I.avif");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img30{
+
+    height: 500px;
+    width: 1000px;
+    background-image: url("i3.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img31{
+
+    height: 200px;
+    width: 500px;
+    background-image: url("i4.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img32{
+
+    height: 600px;
+    width: 1000px;
+    background-image: url("violencia.jpg");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img33{
+
+    height: 800px;
+    width: 2000px;
+    background-image: url("identidad.webp");
+    background-repeat: no-repeat; 
+    float: center;
+
+}
+
+.img34{
+
+    height: 400px;
+    width: 600px;
+    background-image: url("igualdad.png");
+    background-repeat: no-repeat; 
+    float: center;
+
+
+}
